@@ -2,5 +2,4 @@
 
 require_relative '../lib/move.rb'
 
-move = gets.chomp.to_i
 # Code your CLI Here
