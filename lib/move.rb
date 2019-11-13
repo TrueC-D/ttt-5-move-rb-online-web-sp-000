@@ -10,4 +10,8 @@ def input_to_index(input)
   value = input.to_i
   board_number = value-1
 end
+
+def move
+
+end
 # code your input_to_index and move method here!
