@@ -11,7 +11,7 @@ def input_to_index(input)
   board_number = value-1
 end
 
-def move(board, position, player_letter)
+def move(board, position, player_letter="X")
   board[position] = player_letter
 end
 # code your input_to_index and move method here!
