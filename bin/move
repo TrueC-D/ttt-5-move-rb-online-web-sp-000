@@ -13,6 +13,8 @@ input = gets.chomp
 
 move(board, input_to_index(input))
 
+puts display_board(board)
+
 
 
 
